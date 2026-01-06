@@ -1,6 +1,6 @@
 # Проект: ИИ-ассистент для фитнес-клуба
 
-Ссылка на проект - https://t.me/fitness_terra_edu_bot
+Ссылка на проект - https://t.me/fitness_terra_edu_bot.
 
 Скриншоты ТГ бота:
 ![Скриншот 1](https://github.com/IrinaSadykova/ai_assistant/blob/main/скрин%201.png?raw=true)
